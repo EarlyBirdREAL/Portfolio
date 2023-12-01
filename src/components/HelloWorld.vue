@@ -30,6 +30,7 @@ const count = ref(0)
   <p>
     Edit
     <code>components/HelloWorld.vue</code> to test hot module replacement.
+    Want dit is leuk
   </p>
 </template>
 
