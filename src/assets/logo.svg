@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 629.21 240.69">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .04em;
+      }
+
+      .cls-2 {
+        letter-spacing: .02em;
+      }
+
+      .cls-3 {
+        letter-spacing: .05em;
+      }
+
+      .cls-4 {
+        font-family: AcuminVariableConcept, 'Acumin Variable Concept';
+        font-size: 42px;
+        font-variation-settings: 'wght' 194, 'wdth' 100, 'slnt' 0;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: #002b55;
+      }
+
+      .cls-9 {
+        letter-spacing: .06em;
+      }
+
+      .cls-5 {
+        letter-spacing: .05em;
+      }
+
+      .cls-10 {
+        fill: #fff;
+        letter-spacing: .05em;
+      }
+
+      .cls-11 {
+        letter-spacing: .04em;
+      }
+
+      .cls-12 {
+        letter-spacing: .03em;
+      }
+
+      .cls-6 {
+        letter-spacing: .03em;
+      }
+
+      .cls-13 {
+        letter-spacing: .05em;
+      }
+
+      .cls-14 {
+        letter-spacing: .04em;
+      }
+
+      .cls-15 {
+        font-family: Bahnschrift, Bahnschrift;
+        font-size: 193px;
+        font-variation-settings: 'wght' 400, 'wdth' 100;
+      }
+
+      .cls-16 {
+        letter-spacing: .04em;
+      }
+
+      .cls-7 {
+        letter-spacing: .05em;
+      }
+
+      .cls-17 {
+        fill: none;
+        stroke: #002b55;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-8" x="7.77" y="21.46" width="106" height="152"/>
+  <text class="cls-15" transform="translate(0 165.01)"><tspan class="cls-10" x="0" y="0">E</tspan><tspan class="cls-7" x="124.03" y="0">V</tspan><tspan class="cls-5" x="246.93" y="0">E</tspan><tspan class="cls-6" x="370.97" y="0">R</tspan><tspan class="cls-5" x="501.69" y="0">S</tspan></text>
+  <text class="cls-4" transform="translate(149.64 229.68)"><tspan class="cls-14" x="0" y="0">P</tspan><tspan class="cls-1" x="27.34" y="0">H</tspan><tspan class="cls-12" x="59.56" y="0">O</tspan><tspan class="cls-2" x="91.81" y="0">T</tspan><tspan class="cls-1" x="115.42" y="0">O</tspan><tspan class="cls-13" x="148.39" y="0">G</tspan><tspan class="cls-9" x="180.47" y="0">R</tspan><tspan class="cls-11" x="209.2" y="0">A</tspan><tspan class="cls-16" x="237.93" y="0">P</tspan><tspan class="cls-3" x="265.27" y="0">H</tspan><tspan class="cls-11" x="297.73" y="0">Y</tspan></text>
+  <line class="cls-17" x1="140.77" y1="212.46" x2="24.77" y2="212.46"/>
+  <line class="cls-17" x1="596.77" y1="212.46" x2="480.77" y2="212.46"/>
+</svg>

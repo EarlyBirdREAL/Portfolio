@@ -1,7 +1,7 @@
 <template>
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+  <div class="w-full">
+    <h1 class="font-bold p-2">Home</h1>
+  </div>
 </template>
 
 <script setup>
