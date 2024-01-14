@@ -1,0 +1,21 @@
+version: '1.0'
+
+services:
+  app:
+    container_name: app
+    build:
+      context: ./app
+      dockerfile: Dockerfile
+    expose:
+      - 6666
+
+  nginx:
+    container_name: server
+    image: nginx:latest
+    volumes:
+      - ./nginx/:etc/nginx/conf.d/
+    command: "/bin/sh -c 'while :; do sleep 6h & wait $${!}; nginx -s reload; done & nginx -g \"daemon off;\"'"
+    ports:
+      - "80:80"
+    depends_on:
+      app
