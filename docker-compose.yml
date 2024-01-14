@@ -6,6 +6,8 @@ services:
     build: .
     expose:
       - 6666
+    networks:
+      - portfolio
 
   nginx:
     container_name: server
@@ -17,3 +19,8 @@ services:
       - "80:80"
     depends_on:
       - app
+    networks:
+      - portfolio
+
+networks:
+  portfolio:
