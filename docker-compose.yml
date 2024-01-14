@@ -3,6 +3,7 @@ version: '1.0'
 services:
   app:
     container_name: app
+    build: ./app
     expose:
       - 6666
 
