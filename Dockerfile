@@ -1,14 +1,11 @@
-FROM node:18-alpine3.17 as build
+FROM node:12.18.3
 
+RUN apt-get update    && apt-get install -y nginx
 WORKDIR /app
-COPY . /app
-
-RUN npm install
-RUN npm run build
-
-FROM ubuntu
-RUN apt-get update
-RUN apt-get install nginx -y
-COPY --from=build /app/dist /var/www/html/
+COPY . /app/
 EXPOSE 80
+RUN  npm install \
+    && npm run build \
+    && cp -r dist/* /var/www/html \
+    && rm -rf /app
 CMD ["nginx","-g","daemon off;"]
