@@ -7,7 +7,7 @@
       <div class=" rounded-tl-xl rounded-br-xl w-50 ">
         <img
             class="rounded-tl-xl rounded-br-xl h-44 object-cover "
-            src="src/assets/pfp.jpg"
+            src="/src/assets/pfp.jpg"
             alt="Foto of Vincent Evers"
         />
       </div>
