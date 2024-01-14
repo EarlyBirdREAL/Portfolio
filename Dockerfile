@@ -1,11 +1,16 @@
-FROM node:12.18.3
-
-RUN apt-get update    && apt-get install -y nginx
+# Step 1: Build the application
+FROM node:16 AS builder
 WORKDIR /app
-COPY . /app/
-EXPOSE 80
-RUN  npm install \
-    && npm run build \
-    && cp -r dist/* /var/www/html \
-    && rm -rf /app
-CMD ["nginx","-g","daemon off;"]
+COPY package.json package-lock.json ./
+RUN npm ci
+
+COPY . .
+RUN npm run build
+
+# Step 2: Set up the production environment
+FROM nginx:stable-alpine
+COPY --from=builder /app/build /usr/share/nginx/html
+COPY nginx/nginx.conf /etc/nginx/conf.d/default.conf
+
+EXPOSE 8080
+CMD ["nginx", "-g", "daemon off;"]
