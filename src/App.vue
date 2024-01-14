@@ -7,8 +7,10 @@ import NavBar from "./components/NavBar.vue";
 </script>
 
 <template>
-  <NavBar />
-  <Home />
+  <div class="sm:max-w-6xl sm:mx-auto text-gray-500 transition-all">
+    <NavBar />
+    <router-view/>
+  </div>
 </template>
 
 <style>
