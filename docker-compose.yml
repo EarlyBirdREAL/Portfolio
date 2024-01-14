@@ -5,7 +5,7 @@ services:
     container_name: app
     build: .
     expose:
-      - 8080
+      - 80
 #    networks:
 #      - portfolio
 
