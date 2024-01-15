@@ -6,6 +6,8 @@ services:
     build: .
     expose:
       - 80
+    ports:
+      - 80:80
 #    networks:
 #      - portfolio
 
