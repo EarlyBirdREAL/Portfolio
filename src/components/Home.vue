@@ -16,7 +16,7 @@
           Full-Stack Developer
         </div>
         <div class="text-4xl text-white font-semibold">
-          Vincent Evers
+          Vincent Everts
         </div>
         <div>
           Ik ben een gemotiveerde 20 jarige Software developer die zich geontwikkeld heeft in meerder programmeertalen en frameworks.
