@@ -131,20 +131,45 @@
         </div>
       </div>
     </div>
-    <div class="relative col-start-1 col-span-3 group border border-gray-700 bg-gradient-to-br from-gray-800 to-gray-900 rounded-3xl p-8 flex gap-6">
+    <div class="relative col-start-1 col-span-2 group border border-gray-700 bg-gradient-to-br from-gray-800 to-gray-900 rounded-3xl p-8 flex gap-6">
       <div class="flex flex-col gap-2 justify-center">
         <div class="uppercase text-sm">
           Wat kan ik?
         </div>
         <div class="text-4xl text-white font-semibold">
-          Mijn Ervaringen.
+          Lencioni
         </div>
         <div>
-          De afgelopen jaren heb ik veel geleerd, niet alleen met betrekking tot programmeren maar ook hoe te werken in groepen. Zo begon in in mijn eerste semester ID als complete beginneling, ik wist niks en kon nog niks. Maar door te leren samenwerken met je groepsgenoten en met hun begeleiding kwam ik een heel eind. <br><br>
+<!--          TODO: insert Lencioni stuff-->
+        </div>
+      </div>
+    </div>
+    <div class="relative col-start-3 col-span-4 group border border-gray-700 bg-gradient-to-br from-gray-800 to-gray-900 rounded-3xl p-8 flex gap-6">
+      <div class="flex flex-col gap-2 justify-center">
+        <div class="uppercase text-sm">
+          Wat wil ik?
+        </div>
+        <div class="text-4xl text-white font-semibold">
+          Wat Voor Soort Bedrijf en Cultuur?
+        </div>
+        <div>
+          Voor mij zou het ideaal zijn als ik een klein bedrijf zou kunnen vinden die aandacht geven aan de kleine dingen. Als je bij een groot bedrijf begint ben je al snel een nummertje en ga je maar gewoon aan het werk, als je dan een vraag hebt moet je iemand anders gaan vragen waarvan je niet eens weet of diegene daar wel voor open staat.<br>
+          Ik heb het gevoel dat je bij kleine bedrijven wat meer welkom bent, en je je sneller thuis voelt. Tevens is het makkelijker om naar iemand toe te stappen om te vragen voor hulp omdat ze jou ook beter kennen.<br><br>
 
-          In het volgende semester leerde ik al snel dat wat ik allemaal geleerd had nog niks was vergeleken met wat ik kon leren. Zo ging ik snel met scrum vooruit, maar ook het programmeren en samenwerken ging naar een hoger niveau. In dit laatste semester heb ik dit allemaal weer verhoogd en ben ik zelfs scrum master geworden, iets compleet nieuws voor mij, het ging dan ook niet altijd goed, maar ik heb er veel van geleerd.<br><br>
-
-          Uiteindelijk heb ik dus van alles geleerd, maar het belangrijkste is toch hoe je goed kan samenwerken en van elkaar kan leren.
+          Maar dat is ook niet altijd fijn, vaak is je loon wat minder dan bij grote bedrijven en is er minder ontwikkelingsbudget om je eigen vaardigheden tussendoor omhoog te schroeven.
+        </div>
+      </div>
+    </div>
+    <div class="relative col-start-2 col-span-4 group border border-gray-700 bg-gradient-to-br from-gray-800 to-gray-900 rounded-3xl p-8 flex gap-6">
+      <div class="flex flex-col gap-2 justify-center">
+        <div class="uppercase text-sm">
+          Wat wil ik?
+        </div>
+        <div class="text-4xl text-white font-semibold">
+          Wat Heb Ik Nodig?
+        </div>
+        <div>
+          Om goed te functioneren zal ik ook zeker wel begeleiding nodig hebben van een andere developer, ik kan al best veel maar zal ook regelmatig vast lopen. Daarnaast zou het fijn zijn als het bedrijf de jetbrains IDE's suite gebruikt omdat ik daar al gewend aan ben en het me daar erg makkelijk in af gaat.
         </div>
       </div>
     </div>
