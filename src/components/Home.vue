@@ -51,20 +51,29 @@
           Bij deze test word er gekeken naar 5 aspecten van je persoonlijkheid.<br>
           <br>
           <b>Openheid voor ervaringen:</b><br>
-          Hier is uit gebleken dat ik wat meer traditioneel ben en me nuchter gedraag, ik houd van het praktisch blijven en denken. Wat ik minder doe is dus experimenteel denken, ik ben wat minder fantasierijk dan gemiddeld. Mijn percentage bij deze test was 34%.
+          Hier is uit gebleken dat ik wat meer traditioneel ben en me nuchter gedraag, ik houd van het praktisch blijven en denken. Wat ik minder doe is dus experimenteel denken, ik ben wat minder fantasierijk dan gemiddeld.
+          <br>
+          <v-progress-linear rounded model-value="34" :height="20">34%</v-progress-linear>
           <br><br>
           <b>Gewetensvolheid:</b><br>
-          Ik ben erg spontaan en houd van flexibel plannen, ik ga liever niet elke dag precies hetzelfde traject door en heb veel afwisseling nodig. Ik ben dus wat minder georganiseerd en efficiënt. Mijn percentage bij deze test was 11%.
+          Ik ben erg spontaan en houd van flexibel plannen, ik ga liever niet elke dag precies hetzelfde traject door en heb veel afwisseling nodig. Ik ben dus wat minder georganiseerd en efficiënt.
+          <br>
+          <v-progress-linear rounded model-value="11" :height="20">11%</v-progress-linear>
           <br><br>
           <b>Extraversie:</b><br>
-          Ik ben gereserveerd en formeel, ik ben stil en werk het liefst alleen. Ik zit graag niet in een leiders rol en doe het liefst alleen de taken die aan mij gegeven zijn. Mijn percentage bij deze test was 6%
+          Ik ben gereserveerd en formeel, ik ben stil en werk het liefst alleen. Ik zit graag niet in een leiders rol en doe het liefst alleen de taken die aan mij gegeven zijn.
+          <br>
+          <v-progress-linear rounded model-value="6" :height="20">6%</v-progress-linear>
           <br><br>
           <b>Meegaandheid:</b><br>
-          Ik leef meer met mensen mee dan gemiddeld, zorg dat mensen het naar hun zin hebben en dat ze zich niet rot voelen. Ik ben gedreven naar een oplossing te komen in plaats van concurreren en conflicteren. Mijn percentage bij deze test was 70%
+          Ik leef meer met mensen mee dan gemiddeld, zorg dat mensen het naar hun zin hebben en dat ze zich niet rot voelen. Ik ben gedreven naar een oplossing te komen in plaats van concurreren en conflicteren.
+          <br>
+          <v-progress-linear rounded model-value="70" :height="20"><span class="text-gray-300">70%</span></v-progress-linear>
           <br><br>
           <b>Natuurlijke reacties:</b><br>
-          Met deze uitslag ben ik het minder eens, hier is namelijk uitgekomen dat ik negatieve emotionele reacties zou hebben  en geneigd ben tot piekeren. Zelf denk ik dat dit niet het geval is, ik kan snel mijn emoties aan de kant zetten en verder gaan met iets. Dit komt later dan een keer aan bod als ik wat afgekoeld ben. Mijn percentage bij deze test was 83%
-
+          Met deze uitslag ben ik het minder eens, hier is namelijk uitgekomen dat ik negatieve emotionele reacties zou hebben  en geneigd ben tot piekeren. Zelf denk ik dat dit niet het geval is, ik kan snel mijn emoties aan de kant zetten en verder gaan met iets. Dit komt later dan een keer aan bod als ik wat afgekoeld ben.
+          <br>
+          <v-progress-linear rounded model-value="83" :height="20"><span class="text-gray-300">83%</span></v-progress-linear>
         </div>
       </div>
     </div>
@@ -82,6 +91,13 @@
           De <span class="text-green-600">'groene'</span> kleur in mijn profiel wijst erop dat ik mensen graag laat leren. Ik ben goed in luisteren naar verschillende perspectieven en het oplossen van conflicten op een constructieve manier. Hoewel mijn scores in <span class="text-yellow-400">'geel'</span> en <span class="text-blue-500">'blauw'</span> wat minder zijn, betekent dit niet dat ik niet opensta voor innovatie of het belang van structuur onderschat. Ik kan zeker nieuwe ideeën omarmen en ben in staat om de benodigde structuur aan te brengen waar nodig.<br><br>
 
           Als veranderaar ben ik evenwichtig en veelzijdig. Ik combineer mijn doelgerichte aanpak met een sterke focus op het welzijn van de betrokkenen. Mijn vermogen om zowel zakelijke doelen te behalen als aandacht te schenken aan de menselijke kant van verandering maakt mij effectief in het leiden van veranderingen, met respect voor zowel de organisatie als de individuen binnen die organisatie.
+        </div>
+        <div>
+          <v-progress-linear class="text-yellow" rounded model-value="25" :height="20">12</v-progress-linear><br>
+          <v-progress-linear class="text-blue" rounded model-value="20" :height="20">10</v-progress-linear><br>
+          <v-progress-linear class="text-red" rounded model-value="80" :height="20"><span class="text-white">25</span></v-progress-linear><br>
+          <v-progress-linear class="text-green" rounded model-value="70" :height="20"><span class="text-white">23</span></v-progress-linear><br>
+          <v-progress-linear class="text-white" rounded model-value="90" :height="20"><span class="text-black">26</span> </v-progress-linear>
         </div>
       </div>
     </div>
