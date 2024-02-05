@@ -16,7 +16,7 @@
           Full-Stack Developer
         </div>
         <div class="text-4xl text-white font-semibold">
-          Vincent Everts
+          Vincent Evers
         </div>
         <div>
           Ik ben een gemotiveerde 20 jarige Software developer die zich geontwikkeld heeft in meerder programmeertalen en frameworks.
@@ -42,29 +42,109 @@
     <div class="relative col-start-3 col-span-5 group border border-gray-700 bg-gradient-to-br from-gray-800 to-gray-900 rounded-3xl p-8 flex gap-6">
       <div class="flex flex-col gap-2 justify-center">
         <div class="uppercase text-sm">
-          Big Five Personality Test.
+          Wat kan ik?
         </div>
         <div class="text-4xl text-white font-semibold">
-          Wat kan ik?
+          Big Five Personality Test.
         </div>
         <div>
           Bij deze test word er gekeken naar 5 aspecten van je persoonlijkheid.<br>
           <br>
-          <bold>Openheid voor ervaringen:</bold><br>
+          <b>Openheid voor ervaringen:</b><br>
           Hier is uit gebleken dat ik wat meer traditioneel ben en me nuchter gedraag, ik houd van het praktisch blijven en denken. Wat ik minder doe is dus experimenteel denken, ik ben wat minder fantasierijk dan gemiddeld. Mijn percentage bij deze test was 34%.
           <br><br>
-          <bold>Gewetensvolheid:</bold><br>
+          <b>Gewetensvolheid:</b><br>
           Ik ben erg spontaan en houd van flexibel plannen, ik ga liever niet elke dag precies hetzelfde traject door en heb veel afwisseling nodig. Ik ben dus wat minder georganiseerd en efficiënt. Mijn percentage bij deze test was 11%.
           <br><br>
-          <bold>Extraversie:</bold><br>
+          <b>Extraversie:</b><br>
           Ik ben gereserveerd en formeel, ik ben stil en werk het liefst alleen. Ik zit graag niet in een leiders rol en doe het liefst alleen de taken die aan mij gegeven zijn. Mijn percentage bij deze test was 6%
           <br><br>
-          <bold>Meegaandheid:</bold><br>
+          <b>Meegaandheid:</b><br>
           Ik leef meer met mensen mee dan gemiddeld, zorg dat mensen het naar hun zin hebben en dat ze zich niet rot voelen. Ik ben gedreven naar een oplossing te komen in plaats van concurreren en conflicteren. Mijn percentage bij deze test was 70%
           <br><br>
-          <bold>Natuurlijke reacties:</bold><br>
+          <b>Natuurlijke reacties:</b><br>
           Met deze uitslag ben ik het minder eens, hier is namelijk uitgekomen dat ik negatieve emotionele reacties zou hebben  en geneigd ben tot piekeren. Zelf denk ik dat dit niet het geval is, ik kan snel mijn emoties aan de kant zetten en verder gaan met iets. Dit komt later dan een keer aan bod als ik wat afgekoeld ben. Mijn percentage bij deze test was 83%
 
+        </div>
+      </div>
+    </div>
+    <div class="relative col-start-1 col-span-6 group border border-gray-700 bg-gradient-to-br from-gray-800 to-gray-900 rounded-3xl p-8 flex gap-6">
+      <div class="flex flex-col gap-2 justify-center">
+        <div class="uppercase text-sm">
+          Wat kan ik?
+        </div>
+        <div class="text-4xl text-white font-semibold">
+          Caluwe Kleurentest
+        </div>
+        <div>
+          Als veranderaar ben ik vooral <span class="text-red-500">'rood'</span>. Ik sta bekend om mijn vastberadenheid, leiderschap en focus op het behalen van resultaten. Ik ben niet bang om veranderingen te beginnen en te leiden, met een duidelijke visie voor ogen. Mijn hoge resultaat in de <span class="text-white">'witte'</span> kleur benadrukt mijn persoonlijke aanpak. Ik hecht veel waarde aan mensen hun skills en samenwerking, hierdoor kan ik mensen goed betrekken in het veranderingsproces.<br><br>
+
+          De <span class="text-green-600">'groene'</span> kleur in mijn profiel wijst erop dat ik mensen graag laat leren. Ik ben goed in luisteren naar verschillende perspectieven en het oplossen van conflicten op een constructieve manier. Hoewel mijn scores in <span class="text-yellow-400">'geel'</span> en <span class="text-blue-500">'blauw'</span> wat minder zijn, betekent dit niet dat ik niet opensta voor innovatie of het belang van structuur onderschat. Ik kan zeker nieuwe ideeën omarmen en ben in staat om de benodigde structuur aan te brengen waar nodig.<br><br>
+
+          Als veranderaar ben ik evenwichtig en veelzijdig. Ik combineer mijn doelgerichte aanpak met een sterke focus op het welzijn van de betrokkenen. Mijn vermogen om zowel zakelijke doelen te behalen als aandacht te schenken aan de menselijke kant van verandering maakt mij effectief in het leiden van veranderingen, met respect voor zowel de organisatie als de individuen binnen die organisatie.
+        </div>
+      </div>
+    </div>
+    <div class="relative col-start-1 col-span-3 group border border-gray-700 bg-gradient-to-br from-gray-800 to-gray-900 rounded-3xl p-8 flex gap-6">
+      <div class="flex flex-col gap-2 justify-center">
+        <div class="uppercase text-sm">
+          Wat kan ik?
+        </div>
+        <div class="text-4xl text-white font-semibold">
+          Mijn Ervaringen.
+        </div>
+        <div>
+          De afgelopen jaren heb ik veel geleerd, niet alleen met betrekking tot programmeren maar ook hoe te werken in groepen. Zo begon in in mijn eerste semester ID als complete beginneling, ik wist niks en kon nog niks. Maar door te leren samenwerken met je groepsgenoten en met hun begeleiding kwam ik een heel eind. <br><br>
+
+          In het volgende semester leerde ik al snel dat wat ik allemaal geleerd had nog niks was vergeleken met wat ik kon leren. Zo ging ik snel met scrum vooruit, maar ook het programmeren en samenwerken ging naar een hoger niveau. In dit laatste semester heb ik dit allemaal weer verhoogd en ben ik zelfs scrum master geworden, iets compleet nieuws voor mij, het ging dan ook niet altijd goed, maar ik heb er veel van geleerd.<br><br>
+
+          Uiteindelijk heb ik dus van alles geleerd, maar het belangrijkste is toch hoe je goed kan samenwerken en van elkaar kan leren.
+        </div>
+      </div>
+    </div>
+    <div class="relative col-start-4 col-span-3 group border border-gray-700 bg-gradient-to-br from-gray-800 to-gray-900 rounded-3xl p-8 flex gap-6">
+      <div class="flex flex-col gap-2 justify-center">
+        <div class="uppercase text-sm">
+          Wat kan ik?
+        </div>
+        <div class="text-4xl text-white font-semibold">
+          Circle of Concern en Influence.
+        </div>
+        <div>
+          <b>Circle of Concern</b><br>
+          In mijn Circle of Concern staan de volgende dingen:<br><b>
+          - Politiek<br>
+          - Milieu<br>
+          - Werk van andere mensen<br>
+          - De welzijn van andere
+          </b>
+          <br>
+          <br>
+          <b>Circle of Influence</b><br>
+          In mijn Circle of Influence staan de volgende dingen:<br><b>
+          - Goede werkhouding<br>
+          - Mensen om mij aan het werk houden<br>
+          - Mensen helpen met problemen<br>
+          - Zorgen voor eigen gezondheid<br>
+          - Vrolijkheid van andere
+        </b>
+        </div>
+      </div>
+    </div>
+    <div class="relative col-start-1 col-span-3 group border border-gray-700 bg-gradient-to-br from-gray-800 to-gray-900 rounded-3xl p-8 flex gap-6">
+      <div class="flex flex-col gap-2 justify-center">
+        <div class="uppercase text-sm">
+          Wat kan ik?
+        </div>
+        <div class="text-4xl text-white font-semibold">
+          Mijn Ervaringen.
+        </div>
+        <div>
+          De afgelopen jaren heb ik veel geleerd, niet alleen met betrekking tot programmeren maar ook hoe te werken in groepen. Zo begon in in mijn eerste semester ID als complete beginneling, ik wist niks en kon nog niks. Maar door te leren samenwerken met je groepsgenoten en met hun begeleiding kwam ik een heel eind. <br><br>
+
+          In het volgende semester leerde ik al snel dat wat ik allemaal geleerd had nog niks was vergeleken met wat ik kon leren. Zo ging ik snel met scrum vooruit, maar ook het programmeren en samenwerken ging naar een hoger niveau. In dit laatste semester heb ik dit allemaal weer verhoogd en ben ik zelfs scrum master geworden, iets compleet nieuws voor mij, het ging dan ook niet altijd goed, maar ik heb er veel van geleerd.<br><br>
+
+          Uiteindelijk heb ik dus van alles geleerd, maar het belangrijkste is toch hoe je goed kan samenwerken en van elkaar kan leren.
         </div>
       </div>
     </div>
