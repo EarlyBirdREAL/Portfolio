@@ -8,6 +8,7 @@ import NavBar from "./components/NavBar.vue";
 
 <template>
   <div class="sm:max-w-6xl sm:mx-auto text-gray-500 transition-all">
+
 <!--    <NavBar />-->
     <router-view/>
   </div>
